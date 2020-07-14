@@ -7,8 +7,8 @@ https://kotlinlang.org/docs/reference/basic-syntax.html
 
 ### on hold  
 https://kotlinlang.org/docs/tutorials/koans.html  
-Getting-Started -> Koans -> Play -> Introduction -> Lambdas  
-https://play.kotlinlang.org/koans/Introduction/Lambdas/Task.kt  
+Getting-Started -> Koans -> Play -> Introduction -> Strings  
+https://play.kotlinlang.org/koans/Introduction/Strings/Task.kt  
 
 ### goal  
 https://play.kotlinlang.org/hands-on/overview  
